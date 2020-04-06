@@ -1,0 +1,29 @@
+{
+  "name": "qind",
+  "version": "1.0.0",
+  "description": "Bind fn as promise fn",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/tst-q.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samurais/qind.git"
+  },
+  "keywords": [
+    "promise",
+    "callback"
+  ],
+  "author": "Hai Liang Wang <hailiang.hl.wang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samurais/qind/issues"
+  },
+  "homepage": "https://github.com/Samurais/qind#readme",
+  "engines": {
+    "node": ">=0.12"
+  }
+}
